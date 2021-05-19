@@ -16,13 +16,53 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 <br />
 
 <table>
-	<tr>
-		<td rowspan="2"><img align="left" src="./ran.png" width="120px" /></td>
-		<td><strong>花咲ラン</strong></td>
-	</tr>
-	<tr>
-		<td>バラエティを中心に活躍するアイドル</td>
-	</tr>
+  <tr>
+    <td rowspan="2"><img align="left" src="./ran.png" width="120px" /></td>
+    <td><strong>花咲ラン</strong></td>
+  </tr>
+  <tr>
+    <td>バラエティを中心に活躍するアイドル</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="2"><img align="left" src="./fumiaki.png" width="120px" /></td>
+    <td><strong>記本文章</strong></td>
+  </tr>
+  <tr>
+    <td>何でも扱うエンタメ系雑誌のライター</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="2"><img align="left" src="./dive.png" width="120px" /></td>
+    <td><strong>ダイヴ侍</strong></td>
+  </tr>
+  <tr>
+    <td>炎上系YouTuber</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="2"><img align="left" src="./jun.png" width="120px" /></td>
+    <td><strong>小泉潤</strong></td>
+  </tr>
+  <tr>
+    <td>紅の宿の息子。受付から掃除など、全般をやっている。</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="2"><img align="left" src="./atsuo.png" width="120px" /></td>
+    <td><strong>道頓堀熱男</strong></td>
+  </tr>
+  <tr>
+    <td>赤木の所属する芸能事務所社長。</td>
+  </tr>
 </table>
 
 # ⬛ 🕢 タイムテーブル
