@@ -20,6 +20,15 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <br />
 
+<table style="border: none;">
+    <tr>
+        <th>時刻</th>
+        <th>所要時間</th>
+        <th>内容</th>
+        <th>備考</th>
+    </tr>
+</table>
+
 # ⬛ 🕢 タイムテーブル
 
 ## はじめ
