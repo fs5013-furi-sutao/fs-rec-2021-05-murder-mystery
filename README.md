@@ -17,7 +17,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <br />
 
-<img src="./onsen-image/ran.png" width="180px" />
+<img src="./onsen-image/ran.png" width="180px" /><span>&nbsp;</span><img src="./onsen-image/ran.png" width="180px" />
 
 <table>
   <tr>
