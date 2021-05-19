@@ -20,19 +20,14 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <br />
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-<table style="border: none;">
-    <tr style="border: none;">
-        <th style="border: none;">時刻</th>
-        <th>所要時間</th>
-        <th>内容</th>
-        <th>備考</th>
-    </tr>
+<table>
+	<tr>
+		<td rowspan="2">aa</td>
+		<td>花咲ラン</td>
+	</tr>
+	<tr>
+		<td>バラエティを中心に活躍するアイドル</td>
+	</tr>
 </table>
 
 # ⬛ 🕢 タイムテーブル
