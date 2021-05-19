@@ -43,7 +43,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
   <tr>
     <td rowspan="2"><img align="left" src="./dive.png" width="120px" /></td>
     <td><strong>ダイヴ侍</strong></td>
-    <td>25歳</td>
+    <td>27歳</td>
   </tr>
   <tr>
     <td colspan="2">炎上系YouTuber</td>
@@ -54,7 +54,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
   <tr>
     <td rowspan="2"><img align="left" src="./jun.png" width="120px" /></td>
     <td><strong>小泉潤</strong></td>
-    <td>25歳</td>
+    <td>27歳</td>
   </tr>
   <tr>
     <td colspan="2">紅の宿の息子。受付から掃除など、全般をやっている。</td>
@@ -65,7 +65,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
   <tr>
     <td rowspan="2"><img align="left" src="./atsuo.png" width="120px" /></td>
     <td><strong>道頓堀熱男</strong></td>
-    <td>48歳</td>
+    <td>43歳</td>
   </tr>
   <tr>
     <td colspan="2">赤木の所属する芸能事務所社長。</td>
