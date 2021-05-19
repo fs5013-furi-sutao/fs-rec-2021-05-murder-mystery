@@ -57,7 +57,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>25歳</td>
   </tr>
   <tr>
-    <td>紅の宿の息子。受付から掃除など、全般をやっている。</td>
+    <td colspan="2">紅の宿の息子。受付から掃除など、全般をやっている。</td>
   </tr>
 </table>
 
@@ -68,7 +68,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>25歳</td>
   </tr>
   <tr>
-    <td>赤木の所属する芸能事務所社長。</td>
+    <td colspan="2">赤木の所属する芸能事務所社長。</td>
   </tr>
 </table>
 
@@ -79,7 +79,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>25歳</td>
   </tr>
   <tr>
-    <td>推理小説家</td>
+    <td colspan="2">推理小説家</td>
   </tr>
 </table>
 
