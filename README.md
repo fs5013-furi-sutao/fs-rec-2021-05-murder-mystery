@@ -20,6 +20,12 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <br />
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table style="border: none;">
     <tr style="border: none;">
         <th style="border: none;">時刻</th>
