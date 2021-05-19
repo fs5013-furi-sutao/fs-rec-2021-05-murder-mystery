@@ -25,24 +25,27 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
         <th>備考</th>
     </tr>
     <tr>
-        <td>13:50 ～</td>
+        <td>12:50 ～</td>
         <td>―</td>
         <td>開場</td>
         <td>こちらから入場ください<br /><br />FSマーダーミステリー・REMO：<br />https://live.remo.co/e/4-728</td>
     </tr>
     <tr>
-        <td>14:00 ～</td>
+        <td>13:00 ～</td>
         <td>5分</td>
         <td>あいさつ</td>
         <td>―</td>
     </tr>
     <tr>
-        <td>14:05 ～</td>
+        <td>13:05 ～</td>
         <td>5分</td>
         <td>流れの説明</td>
-        <td>―</td>
+        <td>プレイについては「自身キャラクターの目的」を達成できるように頑張ってください</td>
     </tr>
 </table>
+
+※「死者の湯加減」のシナリオを知ってる人がいないか確認します  
+　→知ってる場合テーブルの移動をお願いします
 
 <br />
 
