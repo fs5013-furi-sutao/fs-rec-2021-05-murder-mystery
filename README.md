@@ -23,7 +23,7 @@
         <td>13:50 ～</td>
         <td>―</td>
         <td>開場</td>
-        <td>こちらから入場ください<br /><br />FSオンラインボードゲーム大会・REMO：<br />https://live.remo.co/e/4-728</td>
+        <td>こちらから入場ください<br /><br />FSマーダーミステリー・REMO：<br />https://live.remo.co/e/4-728</td>
     </tr>
     <tr>
         <td>14:00 ～</td>
