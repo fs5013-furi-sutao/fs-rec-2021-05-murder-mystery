@@ -18,7 +18,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 <table>
 	<tr>
 		<td rowspan="2"><img align="left" src="./ran.png" width="120px" /></td>
-		<td>**花咲ラン**</td>
+		<td><strong>花咲ラン</strong></td>
 	</tr>
 	<tr>
 		<td>バラエティを中心に活躍するアイドル</td>
