@@ -13,14 +13,8 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <img src="./onsen-script.jpg" width="360px" /><span>&nbsp;&nbsp;</span><img src="./onsen-chara.jpg" width="360px" />
 
-<kbd><img style="border: 1px solid #000;" src="./ran.png" width="80px" />花咲ラン</kbd><table>
-    <tr>
-        <th>時刻</th>
-        <th>所要時間</th>
-        <th>内容</th>
-        <th>備考</th>
-    </tr>
-</table>
+<kbd><img align="left" src="./ran.png" width="80px" /></kbd>花咲ラン
+バラエティを中心に活躍するアイドル
 
 # ⬛ 🕢 タイムテーブル
 
