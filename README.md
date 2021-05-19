@@ -8,8 +8,7 @@
 
 🤔 会話型の推理ゲームです
 
-<img style="float:right" src="./onsen-script.jpg" width="80" />
-<img src="./onsen-chara.jpg" width="80" />
+<img style="float:right" src="./onsen-script.jpg" width="80" /><img src="./onsen-chara.jpg" width="80" />
 
 # ⬛ 🕢 タイムテーブル
 
