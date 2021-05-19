@@ -11,7 +11,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 🤔 会話型の推理ゲームです
 
-<img src="./onsen-title.jpg" width="360px" />
+<img src="./onsen-title.png" width="360px" />
 
 <img src="./onsen-script.jpg" width="360px" /><span>&nbsp;&nbsp;</span><img src="./onsen-chara.jpg" width="360px" />
 
