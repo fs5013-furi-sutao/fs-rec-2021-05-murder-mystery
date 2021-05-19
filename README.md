@@ -74,7 +74,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <table>
   <tr>
-    <td rowspan="2"></td>
+    <td rowspan="2"><img align="left" src="./gensai.jpg" width="120px" /></td>
     <td><strong>影山幻斎（かげやま げんさい）</strong></td>
     <td>56歳</td>
   </tr>
