@@ -1,6 +1,6 @@
 # FS 5月度レクリエーション案内
 
-質問順番抽選ツール:
+順番抽選ツール:  
 https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ordering-tool.html
 
 ## 体験型推理ゲーム「マーダーミステリー」をみんなで解き明かそう
