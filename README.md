@@ -32,7 +32,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
   <tr>
     <td rowspan="2"><img align="left" src="./fumiaki.png" width="120px" /></td>
     <td><strong>記本文章</strong></td>
-    <td>25歳</td>
+    <td>28歳</td>
   </tr>
   <tr>
     <td colspan="2">何でも扱うエンタメ系雑誌のライター</td>
@@ -65,7 +65,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
   <tr>
     <td rowspan="2"><img align="left" src="./atsuo.png" width="120px" /></td>
     <td><strong>道頓堀熱男</strong></td>
-    <td>25歳</td>
+    <td>48歳</td>
   </tr>
   <tr>
     <td colspan="2">赤木の所属する芸能事務所社長。</td>
