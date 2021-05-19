@@ -13,7 +13,9 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <img src="./onsen-script.jpg" width="360px" /><span>&nbsp;&nbsp;</span><img src="./onsen-chara.jpg" width="360px" />
 
-<kbd><img align="left" src="./ran.png" width="80px" /></kbd>花咲ラン<br />バラエティを中心に活躍するアイドル
+<kbd><img align="left" src="./ran.png" width="80px" /></kbd>
+花咲ラン
+> バラエティを中心に活躍するアイドル
 
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
