@@ -24,7 +24,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>25歳</td>
   </tr>
   <tr>
-    <td>バラエティを中心に活躍するアイドル</td>
+    <td colspan="2">バラエティを中心に活躍するアイドル</td>
   </tr>
 </table>
 
@@ -35,7 +35,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>25歳</td>
   </tr>
   <tr>
-    <td>何でも扱うエンタメ系雑誌のライター</td>
+    <td colspan="2">何でも扱うエンタメ系雑誌のライター</td>
   </tr>
 </table>
 
@@ -46,7 +46,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>25歳</td>
   </tr>
   <tr>
-    <td>炎上系YouTuber</td>
+    <td colspan="2">炎上系YouTuber</td>
   </tr>
 </table>
 
@@ -75,11 +75,11 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 <table>
   <tr>
     <td rowspan="2"></td>
-    <td><strong>道頓堀熱男</strong></td>
+    <td><strong>影山幻斎（かげやま げんさい）</strong></td>
     <td>25歳</td>
   </tr>
   <tr>
-    <td>赤木の所属する芸能事務所社長。</td>
+    <td>推理小説家</td>
   </tr>
 </table>
 
