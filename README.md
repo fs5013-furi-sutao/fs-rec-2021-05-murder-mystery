@@ -44,7 +44,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     </tr>
 </table>
 
-※「死者の湯加減」のシナリオを知ってる人がいないか確認します  
+**※「死者の湯加減」のシナリオを知ってる人がいないか確認します**  
 　→知ってる場合テーブルの移動をお願いします
 
 <br />
