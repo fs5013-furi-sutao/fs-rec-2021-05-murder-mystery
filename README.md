@@ -68,6 +68,10 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>佐藤和輝</td>
     <td>zip</td>
   </tr>
+  <tr>
+    <td colspan="4">赤木さんが PDF を開いて<br />みんなに説明してください</td>
+    <td>ゲーム終了後に開く秘密の PDF</td>
+  </tr>
 </table>
 
 <table>
