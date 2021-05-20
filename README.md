@@ -17,73 +17,16 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 <br />
 
+## 今回のシナリオ
+
+今回はシナリオを2つ用意しています
+
+- シナリオ.1: 死者の湯加減（Aテーブル と Bテーブル で使用するシナリオです）
+- シナリオ.2: 歯車セカイ
+
 <img src="./onsen-image/ran.png" width="180px" /><span>&nbsp;</span><img src="./onsen-image/ran.png" width="180px" />
 
-<table>
-  <tr>
-    <td rowspan="2"><img align="left" src="./ran.png" width="120px" /></td>
-    <td><strong>花咲ラン</strong></td>
-    <td>25歳</td>
-  </tr>
-  <tr>
-    <td colspan="2">バラエティを中心に活躍するアイドル</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2"><img align="left" src="./fumiaki.png" width="120px" /></td>
-    <td><strong>記本文章</strong></td>
-    <td>28歳</td>
-  </tr>
-  <tr>
-    <td colspan="2">何でも扱うエンタメ系雑誌のライター</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2"><img align="left" src="./dive.png" width="120px" /></td>
-    <td><strong>ダイヴ侍</strong></td>
-    <td>27歳</td>
-  </tr>
-  <tr>
-    <td colspan="2">炎上系YouTuber</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2"><img align="left" src="./jun.png" width="120px" /></td>
-    <td><strong>小泉潤</strong></td>
-    <td>27歳</td>
-  </tr>
-  <tr>
-    <td colspan="2">紅の宿の息子。受付から掃除など、全般をやっている。</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2"><img align="left" src="./atsuo.png" width="120px" /></td>
-    <td><strong>道頓堀熱男</strong></td>
-    <td>43歳</td>
-  </tr>
-  <tr>
-    <td colspan="2">赤木の所属する芸能事務所社長。</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2"><img align="left" src="./gensai.jpg" width="120px" /></td>
-    <td><strong>影山幻斎（かげやま げんさい）</strong></td>
-    <td>56歳</td>
-  </tr>
-  <tr>
-    <td colspan="2">推理小説家</td>
-  </tr>
-</table>
+<
 
 # ⬛ 🕢 タイムテーブル
 
