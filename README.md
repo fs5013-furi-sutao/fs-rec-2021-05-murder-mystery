@@ -20,9 +20,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 - シナリオ.1: 死者の湯加減（Aテーブル と Bテーブル で使用するシナリオです）
 - シナリオ.2: 歯車セカイ
 
-<img src="./onsen-image/onsen-title.png" width="360px" />
-<span>&nbsp;&nbsp;</span>
-<img src="./gears-world-image/gears-world-title.jpg" width="360px" />
+<img src="./onsen-image/onsen-title.png" width="360px" /><span>&nbsp;&nbsp;</span><img src="./gears-world-image/gears-world-title.jpg" width="360px" />
 
 <br />
 
