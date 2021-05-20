@@ -37,8 +37,8 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>事前ダウンロード</td>
   </tr>
   <tr>
-    <td rowspan="5">A テーブル</td>
-    <td rowspan="5">死者の湯加減</td>
+    <td rowspan="6">A テーブル</td>
+    <td rowspan="6">死者の湯加減</td>
     <td>1</td>
     <td>中野義嗣</td>
     <td>zip</td>
@@ -63,6 +63,11 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>松浦晴菜</td>
     <td>zip</td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>佐藤和輝</td>
+    <td>zip</td>
+  </tr>
 </table>
 
 <table>
@@ -71,28 +76,34 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>シナリオ</td>
     <td>配役</td>
     <td>メンバ</td>
+    <td>事前ダウンロード</td>
   </tr>
   <tr>
     <td rowspan="5">B テーブル</td>
     <td rowspan="5">死者の湯加減</td>
     <td>1</td>
     <td>太田康介</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>2</td>
     <td>水野愛美</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>3</td>
     <td>鍛治宏旭</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>4</td>
     <td>斉藤憲吾</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>5</td>
     <td>渋谷誠之</td>
+    <td>zip</td>
   </tr>
 </table>
 
@@ -102,28 +113,34 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>シナリオ</td>
     <td>配役</td>
     <td>メンバ</td>
+    <td>事前ダウンロード</td>
   </tr>
   <tr>
     <td rowspan="5">C テーブル</td>
     <td rowspan="5">歯車セカイ</td>
     <td>1</td>
     <td>今立唯子</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>2</td>
     <td>近藤大揮</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>3</td>
     <td>田中聖人</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>4</td>
     <td>森澤直之</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>5</td>
     <td>五斗圭</td>
+    <td>zip</td>
   </tr>
 </table>
 
