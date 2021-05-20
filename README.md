@@ -73,6 +73,9 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
+※**大鹿さん**がタイムウォッチャ（時間進行）を行うようにお願いします
+
+<br />
 
 <table>
   <tr>
@@ -114,6 +117,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
+※**斉藤さん**がタイムウォッチャ（時間進行）を行うようにお願いします
 
 <br />
 
@@ -157,7 +161,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
-
+※**近藤さん**がタイムウォッチャ（時間進行）を行うようにお願いします
 
 <br />
 
@@ -192,48 +196,146 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     </tr>
 </table>
 
-**※「死者の湯加減」のシナリオを知ってる人がいないか確認します**  
-　→知ってる場合テーブルの移動をお願いします
-
 <br />
 
 ## 🕢 各テーブルに別れてから
- 
- <table>
-    <tr>
-        <td>14:10 ～</td>
-        <td>10分</td>
-        <td>自己紹介タイム</td>
-        <td>自己流にアッピール</td>
-    </tr>
-    <tr>
-        <td>14:20 ～</td>
-        <td>5分</td>
-        <td>①事前にアカウントの作成</td>
-        <td>手順はこちらです：<br /><a href="./how-to-get-starting-online-boad-game.md">ボードゲームアリーナでのアカウント作成手順</a></td>
-    </tr>
-    <tr>
-        <td>14:25 ～</td>
-        <td>5分</td>
-        <td>②友達の追加</td>
-        <td><a href="https://ja.boardgamearena.com/">サイト</a> 上部<br />
-👉「コミュニティ」クリック<br />
-👉 友達に加える欄に、テーブル内のメンバーのプレイヤー名を入力<br />
-👉 完了</td>
-    </tr>
-    <tr>
-        <td>―</td>
-        <td>―</td>
-        <td>③ゲームを探す</td>
-        <td><a href="https://ja.boardgamearena.com/">サイト</a> 上部<br />
-👉「ゲームテーブルの作成・参加」クリック<br />
-👉 シンプルゲーム<br />
-👉 リアルタイム<br />
-👉 友達と遊ぶ<br />
-👉「ゲームを探す」にゲーム名を入力<br />
-👉 プレイ！</td>
-    </tr>
+
+### シナリオが「死者の湯加減」の場合
+
+<table>
+  <tr>
+    <td>時刻</td>
+    <td>所要時間</td>
+    <td>内容</td>
+  </tr>
+  <tr>
+    <td>13:10 ～</td>
+    <td>10分</td>
+    <td>キャラシート読</td>
+  </tr>
+  <tr>
+    <td>13:20 ～</td>
+    <td>20分</td>
+    <td>フェイズ1</td>
+  </tr>
+  <tr>
+    <td>13:40 ～</td>
+    <td>20分</td>
+    <td>フェイズ2</td>
+  </tr>
+  <tr>
+    <td>14:00 ～</td>
+    <td>20分</td>
+    <td>フェイズ3</td>
+  </tr>
+  <tr>
+    <td>14:20 ～</td>
+    <td>10分</td>
+    <td>投票、理由の説明</td>
+  </tr>
+  <tr>
+    <td>14:30 ～</td>
+    <td>10分</td>
+    <td>感想ディスカッション</td>
+  </tr>
 </table>
+
+<br />
+
+### シナリオが「歯車セカイ」の場合
+
+<table>
+  <tr>
+    <td>時刻</td>
+    <td>所要時間</td>
+    <td>内容</td>
+  </tr>
+  <tr>
+    <td>13:10 ～</td>
+    <td>10分</td>
+    <td>ハンドアウト読</td>
+  </tr>
+  <tr>
+    <td>13:20 ～</td>
+    <td>5分</td>
+    <td>自己紹介</td>
+  </tr>
+  <tr>
+    <td>13:25 ～</td>
+    <td>5分</td>
+    <td>01_導入.txt</td>
+  </tr>
+  <tr>
+    <td>13:30 ～</td>
+    <td>2分</td>
+    <td>情報確認1</td>
+  </tr>
+  <tr>
+    <td>13:32 ～</td>
+    <td>15分</td>
+    <td>議論フェイズ1</td>
+  </tr>
+  <tr>
+    <td>13:47 ～</td>
+    <td>2分</td>
+    <td>情報確認2</td>
+  </tr>
+  <tr>
+    <td>13:49 ～</td>
+    <td>15分</td>
+    <td>議論フェイズ2</td>
+  </tr>
+  <tr>
+    <td>14:04 ～</td>
+    <td>5分</td>
+    <td>推理フェイズ</td>
+  </tr>
+  <tr>
+    <td>14:09 ～</td>
+    <td>15分</td>
+    <td>最終議論</td>
+  </tr>
+  <tr>
+    <td>14:24 ～</td>
+    <td>5分</td>
+    <td>投票</td>
+  </tr>
+  <tr>
+    <td>14:29 ～</td>
+    <td>2分</td>
+    <td>エンディング</td>
+  </tr>
+  <tr>
+    <td>14:31 ～</td>
+    <td>9分</td>
+    <td>感想ディスカッション</td>
+  </tr>
+</table>
+
+## 🕢 テーブルチェンジ
+
+<table>
+  <tr>
+    <td>時刻</td>
+    <td>所要時間</td>
+    <td>内容</td>
+    <td>備考</td>
+  </tr>
+  <tr>
+    <td>14:40 ～</td>
+    <td>15分</td>
+    <td>感想ディスカッション</td>
+    <td>テーブルチェンジしてトーク</td>
+  </tr>
+  <tr>
+    <td>14:55 ～</td>
+    <td>5分</td>
+    <td>おわりに</td>
+    <td>みなさん、お疲れ様でした</td>
+  </tr>
+</table>
+
+<br />
 
 ### 本日は、次の 3 つのゲームをプレイします！
 
