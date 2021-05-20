@@ -34,28 +34,34 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td>シナリオ</td>
     <td>配役</td>
     <td>メンバ</td>
+    <td>事前ダウンロード</td>
   </tr>
   <tr>
     <td rowspan="5">A テーブル</td>
     <td rowspan="5">死者の湯加減</td>
     <td>1</td>
     <td>中野義嗣</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>2</td>
     <td>赤木優輝</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>3</td>
     <td>荒川貴詳</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>4</td>
     <td>大鹿悠蘭</td>
+    <td>zip</td>
   </tr>
   <tr>
     <td>5</td>
     <td>松浦晴菜</td>
+    <td>zip</td>
   </tr>
 </table>
 
