@@ -41,7 +41,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td rowspan="6">死者の湯加減</td>
     <td>1</td>
     <td>中野義嗣</td>
-    <td>zip</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/4players/01.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>2</td>
