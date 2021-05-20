@@ -84,31 +84,36 @@
     <td>事前ダウンロード</td>
   </tr>
   <tr>
-    <td rowspan="5">B テーブル</td>
-    <td rowspan="5">死者の湯加減</td>
+    <td rowspan="6">B テーブル</td>
+    <td rowspan="6">死者の湯加減</td>
     <td>1</td>
     <td>太田康介</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/01.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/01.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>水野愛美</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/02.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/02.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>鍛治宏旭</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/03.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/03.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>斉藤憲吾</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/04.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/04.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>5</td>
     <td>渋谷誠之</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/05.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/05.zip">zip ファイルをダウンロード</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>稲垣来未</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/06.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td colspan="4">ゲーム終了後に<strong>水野さん</strong>が PDF を開いて<br />みんなに説明してください</td>
