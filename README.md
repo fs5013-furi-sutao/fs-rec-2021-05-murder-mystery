@@ -59,7 +59,67 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>テーブル名</td>
+    <td>シナリオ</td>
+    <td>配役</td>
+    <td>メンバ</td>
+  </tr>
+  <tr>
+    <td rowspan="5">B テーブル</td>
+    <td rowspan="5">死者の湯加減</td>
+    <td>1</td>
+    <td>太田康介</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>水野愛美</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>鍛治宏旭</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>斉藤憲吾</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>渋谷誠之</td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td>テーブル名</td>
+    <td>シナリオ</td>
+    <td>配役</td>
+    <td>メンバ</td>
+  </tr>
+  <tr>
+    <td rowspan="5">C テーブル</td>
+    <td rowspan="5">歯車セカイ</td>
+    <td>1</td>
+    <td>今立唯子</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>近藤大揮</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>田中聖人</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>森澤直之</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>五斗圭</td>
+  </tr>
+</table>
 
 <br />
 
