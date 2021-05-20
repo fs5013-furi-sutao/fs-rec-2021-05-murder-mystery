@@ -69,7 +69,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/06.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
-    <td colspan="4">赤木さんが PDF を開いて<br />みんなに説明してください</td>
+    <td colspan="4">ゲーム終了後に<strong>赤木さん</strong>が PDF を開いて<br />みんなに説明してください</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
@@ -110,7 +110,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/05.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
-    <td colspan="4">水野さんが PDF を開いて<br />みんなに説明してください</td>
+    <td colspan="4">ゲーム終了後に<strong>水野さん</strong>が PDF を開いて<br />みんなに説明してください</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
@@ -153,7 +153,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/05.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
-    <td colspan="4">今立さんが PDF を開いて<br />みんなに説明してください</td>
+    <td colspan="4">ゲーム終了後に<strong>今立さん</strong>が PDF を開いて<br />みんなに説明してください</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
