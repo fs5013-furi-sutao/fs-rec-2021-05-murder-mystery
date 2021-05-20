@@ -87,33 +87,35 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td rowspan="5">死者の湯加減</td>
     <td>1</td>
     <td>太田康介</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/01.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/01.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>水野愛美</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/02.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/02.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>鍛治宏旭</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/03.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/03.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>斉藤憲吾</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/04.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/04.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>5</td>
     <td>渋谷誠之</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/05.zip">zip ファイルをダウンロード</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/05.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td colspan="4">水野さんが PDF を開いて<br />みんなに説明してください</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
+
+<br />
 
 <table>
   <tr>
@@ -128,29 +130,34 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
     <td rowspan="5">歯車セカイ</td>
     <td>1</td>
     <td>今立唯子</td>
-    <td>zip</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/01.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>近藤大揮</td>
-    <td>zip</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/02.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>田中聖人</td>
-    <td>zip</td>
+    <td>森澤直之</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/03.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>4</td>
-    <td>森澤直之</td>
-    <td>zip</td>
+    <td>五斗圭</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/04.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>5</td>
-    <td>五斗圭</td>
-    <td>zip</td>
+    <td>田中聖人</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/05.zip">zip ファイルをダウンロード</a></td>
+  </tr>
+  <tr>
+    <td colspan="4">今立さんが PDF を開いて<br />みんなに説明してください</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
+
 
 <br />
 
