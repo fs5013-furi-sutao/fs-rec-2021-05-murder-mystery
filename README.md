@@ -11,12 +11,6 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 
 🤔 会話型の推理ゲームです
 
-<img src="./onsen-title.png" width="730px" />
-
-<img src="./onsen-script.jpg" width="360px" /><span>&nbsp;&nbsp;</span><img src="./onsen-chara.jpg" width="360px" />
-
-<br />
-
 ## 今回のシナリオ
 
 今回はシナリオを2つ用意しています
@@ -24,9 +18,7 @@ https://raw.githack.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/main/ord
 - シナリオ.1: 死者の湯加減（Aテーブル と Bテーブル で使用するシナリオです）
 - シナリオ.2: 歯車セカイ
 
-<img src="./onsen-image/ran.png" width="180px" /><span>&nbsp;</span><img src="./onsen-image/ran.png" width="180px" />
-
-<
+<br />
 
 # ⬛ 🕢 タイムテーブル
 
