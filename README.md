@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-※**大鹿さん**がタイムウォッチャ（時間進行）を行うようにお願いします
+※**大鹿さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#シナリオが「死者の湯加減」の場合)をお願いします！
 
 <br />
 
@@ -121,11 +121,11 @@
   </tr>
   <tr>
     <td colspan="4">ゲーム終了後に<strong>水野さん</strong>が PDF を開いて<br />みんなに説明してください</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/5players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
 
-※**斉藤さん**がタイムウォッチャ（時間進行）を行うようにお願いします
+※**斉藤さん**さん、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#シナリオが「死者の湯加減」の場合)をお願いします！
 
 <br />
 
@@ -170,7 +170,7 @@
   </tr>
 </table>
 
-※**近藤さん**がタイムウォッチャ（時間進行）を行うようにお願いします
+※**近藤さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#シナリオが「歯車セカイ」の場合)をお願いします！
 
 <br />
 
