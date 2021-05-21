@@ -185,7 +185,7 @@
         <td>12:50 ～</td>
         <td>―</td>
         <td>開場</td>
-        <td>こちらから入場ください<br /><br />FSマーダーミステリー・REMO：<br />https://live.remo.co/e/4-728</td>
+        <td>こちらから入場ください<br /><br />FSマーダーミステリー・REMO：<br />https://live.remo.co/e/FrRKjGPMp</td>
     </tr>
     <tr>
         <td>13:00 ～</td>
