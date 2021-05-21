@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-※**大鹿さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#シナリオが「死者の湯加減」の場合)をお願いします！
+※**大鹿さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#onsen-timer)をお願いします！
 
 <br />
 
@@ -125,7 +125,7 @@
   </tr>
 </table>
 
-※**斉藤さん**さん、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#シナリオが「死者の湯加減」の場合)をお願いします！
+※**斉藤さん**さん、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#onsen-timer)をお願いします！
 
 <br />
 
@@ -170,7 +170,7 @@
   </tr>
 </table>
 
-※**近藤さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#シナリオが「歯車セカイ」の場合)をお願いします！
+※**近藤さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#gears-timer)をお願いします！
 
 <br />
 
@@ -209,7 +209,7 @@
 
 ## 🕢 各テーブルに別れてから
 
-### シナリオが「死者の湯加減」の場合
+<h3 id="onsen-timer">シナリオが「死者の湯加減」の場合</h3>
 
 <table>
   <tr>
@@ -251,7 +251,7 @@
 
 <br />
 
-### シナリオが「歯車セカイ」の場合
+<h3 id="gears-timer">シナリオが「歯車セカイ」の場合</h3>
 
 <table>
   <tr>
