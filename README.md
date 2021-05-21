@@ -81,8 +81,8 @@ https://live.remo.co/e/FrRKjGPMp
   </tr>
   <tr>
     <td>5</td>
-    <td></td>
-    <td>佐藤和輝<a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/05.zip">zip ファイルをダウンロード</a></td>
+    <td>佐藤和輝</td>
+    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/05.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>6</td>
@@ -190,7 +190,7 @@ https://live.remo.co/e/FrRKjGPMp
   </tr>
 </table>
 
-※**近藤さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#gears-timer)をお願いします！
+※**五斗さん**、[タイムウォッチャ（時間進行）](https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery#gears-timer)をお願いします！
 
 <br />
 
