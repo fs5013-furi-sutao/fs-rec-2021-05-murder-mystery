@@ -61,32 +61,32 @@ https://live.remo.co/e/FrRKjGPMp
     <td rowspan="6">A テーブル</td>
     <td rowspan="6">死者の湯加減</td>
     <td>1</td>
-    <td>中野義嗣</td>
+    <td>赤木優輝</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/01.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td>赤木優輝</td>
+    <td>荒川貴詳</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/02.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>荒川貴詳</td>
+    <td>大鹿悠蘭</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/03.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>4</td>
-    <td>大鹿悠蘭</td>
+    <td>松浦晴菜</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/04.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>5</td>
-    <td>松浦晴菜</td>
-    <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/05.zip">zip ファイルをダウンロード</a></td>
+    <td></td>
+    <td>佐藤和輝<a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/05.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
     <td>6</td>
-    <td>佐藤和輝</td>
+    <td>近藤大揮</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/06.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
@@ -166,7 +166,7 @@ https://live.remo.co/e/FrRKjGPMp
   </tr>
   <tr>
     <td>2</td>
-    <td>近藤大揮</td>
+    <td>中野義嗣</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/02.gears/5players/02.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
