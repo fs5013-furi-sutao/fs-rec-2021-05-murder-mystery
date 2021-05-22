@@ -381,3 +381,11 @@ LINE ID: 橋本夏樹
 </table>
 
 <br />
+
+### 15:00 ～ 希望者が集まれば AmongUs をやります <img src="./handshake.gif" width="60">
+
+> 参加されたい方は 17:00 になったら、  
+> DISCORD > RELAXATION >  📢休憩室 にお越しください  
+> https://discord.gg/8NX59XN
+
+<br />
