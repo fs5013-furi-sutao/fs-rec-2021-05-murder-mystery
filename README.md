@@ -44,8 +44,13 @@ https://live.remo.co/e/FrRKjGPMp
 
 お名前の横にございますダウンロードリンクから、事前にゲーム進行に必要ファイルを各自ダウンロードください。他の方のファイルはダウンロードしないようにお気をつけください（ネタばれしたらオモシロくないよ）。
 
-**執事**👨‍⚖️:     
-橋本夏樹（気になることがございましたら、なんなりとお申し付けください）  
+**執事**👨‍⚖️:   
+気になることがございましたら、なんなりとお申し付けください
+
+近藤大揮  
+LINE ID: 近藤 大揮@ELMA
+
+橋本夏樹    
 LINE ID: 橋本夏樹  
 
 <br />
@@ -91,7 +96,7 @@ LINE ID: 橋本夏樹
   </tr>
   <tr>
     <td>6</td>
-    <td>近藤大揮</td>
+    <td>中川堅太</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/06.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
