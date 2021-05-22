@@ -150,7 +150,7 @@ LINE ID: 橋本夏樹
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/06.zip">zip ファイルをダウンロード</a></td>
   </tr>
   <tr>
-    <td colspan="4">ゲーム終了後に<strong>水野さん</strong>が PDF を開いて<br />みんなに説明してください</td>
+    <td colspan="4">ゲーム終了後に<strong>近藤さん</strong>が PDF を開いて<br />みんなに説明してください</td>
     <td><a href="https://github.com/fs5013-furi-sutao/fs-rec-2021-05-murder-mystery/raw/main/senario/01.onsen/6players/top-secret_open-at-last.zip">ゲーム終了後に開く秘密の PDF</a></td>
   </tr>
 </table>
